@@ -1,4 +1,4 @@
-#  
+#  Get the ultimate Ulysses for macOS addon with Ulysses for macOS exclusive Addon - calendar integration and task automation. Featuring calendar integration and task automation,
 
 
 
